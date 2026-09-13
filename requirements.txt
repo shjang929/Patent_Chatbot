@@ -1,0 +1,6 @@
+streamlit>=1.40,<2
+pypdf>=5,<7
+scikit-learn>=1.5,<2
+groq>=0.18,<1
+python-dotenv>=1,<2
+pdfplumber>=0.11,<0.12
